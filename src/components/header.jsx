@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { BiChevronDown } from "react-icons/bi";
 import Link from "next/link";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

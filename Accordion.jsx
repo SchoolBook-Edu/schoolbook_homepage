@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useState } from "react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { MdAudiotrack, MdOutlineVideoLibrary, MdOutlineFileCopy } from "react-icons/md";
 // import { FaAngleDown, FaAngleUp } from "react-icons/fa";
 
