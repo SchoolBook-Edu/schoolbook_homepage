@@ -15,13 +15,13 @@ export default function Home() {
             <h1 className='text-white capitalize text-2xl lg:text-5xl font-bold leading-snug lg:leading-snug'>The Schooling experience gets better with us</h1>
             <p className='text-white lg:leading-7 text-base'>{`Putting first the needs of instructors and students in higher institutions of learning with our data driven solutions and improving the schooling experience of our users is our top priority at Schoolbook`}</p>
             <div className='flex flex-col sm:flex-row lg:justify-start justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4'>
-              <Link href="https://schoolbook-fe-lovat.vercel.app/">
+              <Link href="https://schoolbook-fe-two.vercel.app/">
                 <button
                   className={primaryBtn}>
                   SignUp as a Tutor
                 </button>
               </Link>
-              <Link href="https://schoolbook-fe-lovat.vercel.app/">
+              <Link href="https://schoolbook-fe-two.vercel.app/">
                 <button
                   className={secondaryBtn}>
                   SignUp as a Student
@@ -96,13 +96,13 @@ export default function Home() {
           <h2 className='text-[#ffffff] font-bold text-xl sm:text-4xl'>Ready to get started?</h2>
           <p className='text-[#ffffff] font-normal text-base sm:text-xl leading-7'>{`You can drive that schooling process using schoolbook`}</p>
           <div className='flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4'>
-            <Link href="https://schoolbook-fe-lovat.vercel.app/">
+            <Link href="https://schoolbook-fe-two.vercel.app/">
               <button
                 className={primaryBtn}>
                 SignUp as a Tutor
               </button>
             </Link>
-            <Link href="https://schoolbook-fe-lovat.vercel.app/">
+            <Link href="https://schoolbook-fe-two.vercel.app/">
               <button
                 className={secondaryBtn}>
                 SignUp as a Student
